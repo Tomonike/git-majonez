@@ -1,0 +1,41 @@
+ 1338  git status
+ 1339  git add main.cpp 
+ 1340  git commit -m "Initial commit"
+ 1341  git add main.cpp 
+ 1342  git commit -m "Farewell changed"
+ 1343  git status
+ 1344  git remote add origin https://github.com/Tomonike/git-majonez.git
+ 1345  git push -u origin master 
+ 1346  git status
+ 1347  git branch cs -b
+ 1348  git branch cs
+ 1349  git status
+ 1350  git branch -l
+ 1351  git checkout cs 
+ 1352  git statu
+ 1353  git status
+ 1354  git log
+ 1355  git reset --help
+ 1356  git log
+ 1357  git reset --help
+ 1358  git reset --hard 2a9aad674ec67830c0c1c8c9c37bcca785bceff7
+ 1359  git log
+ 1360  git reset --hard aa3fc7c5009ccbf519cbe75fbec4dc5c6ae1c543
+ 1361  git status
+ 1362  git log
+ 1363  git status
+ 1364  git add main.cpp 
+ 1365  git status
+ 1366  git commit -m "Greetings"
+ 1367  git push origin cs 
+ 1368  git checkout master 
+ 1369  git status
+ 1370  git merge cs 
+ 1371  git status
+ 1372  git commit
+ 1373  git add main.cpp 
+ 1374  git commit
+ 1375  git status
+ 1376  history | tail
+ 1377  history
+ 1378  history | tail -n41 > history.txt
