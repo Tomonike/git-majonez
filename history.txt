@@ -1,6 +1,6 @@
  1335  mkdir git-majonez
- 1336  touch main.cpp
- 1337  git init
+ 1336  git init
+ 1337  touch main.cpp
  1338  git status
  1339  git add main.cpp 
  1340  git commit -m "Initial commit"
@@ -41,4 +41,4 @@
  1375  git status
  1376  history | tail
  1377  history
- 1378  history | tail -n41 > history.txt
+ 1378  history | tail -n42 > history.txt
