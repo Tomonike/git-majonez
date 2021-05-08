@@ -1,3 +1,5 @@
+ 1336  touch main.cpp
+ 1337  git init
  1338  git status
  1339  git add main.cpp 
  1340  git commit -m "Initial commit"
